@@ -3,7 +3,7 @@
     <!-- MainActivity -->
     <string name="tv_heading">WishMaker</string>
     <string name="tv_subheading">Send your wishes instantly to loved ones or save them for the perfect moment.</string>
-    <string name="tv_start">Let's Go</string>
+    <string name="btn_start">Let's Go</string>
 
     <!-- SignUpActivity -->
     <string name="tv_heading_signup">It’s Time to Shine!</string>
