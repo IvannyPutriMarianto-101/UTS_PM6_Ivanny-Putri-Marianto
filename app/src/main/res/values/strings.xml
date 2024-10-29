@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">WishMaker</string>
+
+    <!-- MainActivity -->
+    <string name="tv_heading">WishMaker</string>
+    <string name="tv_subheading">Send your wishes instantly to loved ones or save them for the perfect moment.</string>
+    <string name="tv_start">Let's Go</string>
+
+    <!-- SignUpActivity -->
+    <string name="tv_heading_signup">It’s Time to Shine!</string>
+    <string name="tv_subheading_signup">Create Your Profile to Unlock New Experiences!</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="et_comfirm_password">Confirm Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="tv_account">Already have an account? Sign In</string>
+
+    <!-- SignInActivity -->
+    <string name="tv_heading_signin">Welcome Back!</string>
+    <string name="tv_subheading_signin">Log in to Continue Your Journey!</string>
+    <string name="et_enter_email">Enter Your Email</string>
+    <string name="et_enter_password">Enter Your Password</string>
+    <string name="btn_login">Log In</string>
+
+    <!-- FormActivity -->
+    <string name="tv_form_title">Form Greeting Card</string>
+    <string name="et_greeting_sentences">Greeting Sentences</string>
+    <string name="et_recepient">Recipient's Name</string>
+    <string name="et_message">Message</string>
+    <string name="et_closing">Closing Steatment</string>
+    <string name="et_sender">Sender Name</string>
+
 </resources>
