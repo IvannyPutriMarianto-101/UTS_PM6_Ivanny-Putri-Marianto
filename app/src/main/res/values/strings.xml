@@ -3,7 +3,7 @@
     <!-- MainActivity -->
     <string name="tv_heading">WishMaker</string>
     <string name="tv_subheading">Send your wishes instantly to loved ones or save them for the perfect moment.</string>
-    <string name="btn_start">Let's Go</string>
+    <string name="btn_start">Let\'s Go</string>
 
     <!-- SignUpActivity -->
     <string name="tv_heading_signup">It’s Time to Shine!</string>
@@ -21,12 +21,44 @@
     <string name="et_enter_password">Enter Your Password</string>
     <string name="btn_login">Log In</string>
 
+    <!-- ChooseTemplateActivity -->
+    <string name="tv_heading_template">Choose Your Look!</string>
+    <string name="tv_subheading_template">Find the perfect design to match your message and make it unforgettable!</string>
+    <!-- Birthday Card -->
+    <string name="card_birthday_heading">Birthday Template</string>
+    <string name="card_birthday_subheading">Celebrate their special day with a card that’s as unique as they are! Choose a design that adds a personal touch to your birthday wishes.</string>
+    <string name="btn_card_birthday">Customize</string>
+    <!-- Christmas Card -->
+    <string name="card_christmas_heading">Christmas Template</string>
+    <string name="card_christmas_subheading">Spread holiday cheer with a beautifully crafted card! Choose a design that captures the magic of Christmas and shares joy with loved ones.</string>
+    <string name="btn_card_christmas">Customize</string>
+    <!-- Graduation Card -->
+    <string name="card_graduation_heading">Graduation Template</string>
+    <string name="card_graduation_subheading">Celebrate their big achievement with a card that honors their journey! Pick a design that’s as inspiring as their success.</string>
+    <string name="btn_card_graduation">Customize</string>
+    <!-- Wedding Card -->
+    <string name="card_wedding_heading">Wedding Template</string>
+    <string name="card_weddiing_subheading">Share in the joy of their special day with a card that captures love and happiness. Choose a design that celebrates their beautiful beginning together.</string>
+    <string name="btn_card_wedding">Customize</string>
+
     <!-- FormActivity -->
     <string name="tv_form_title">Form Greeting Card</string>
     <string name="et_greeting_sentences">Greeting Sentences</string>
-    <string name="et_recepient">Recipient's Name</string>
+    <string name="et_recepient">Recipient\'s Name</string>
     <string name="et_message">Message</string>
-    <string name="et_closing">Closing Steatment</string>
+    <string name="et_closing">Closing Statement</string>
     <string name="et_sender">Sender Name</string>
+
+    <!-- BirthdayTemplateActivity -->
+    <string name="card_birthday">Happy Birthday!</string>
+
+    <!-- ChristmasTemplateActivity -->
+    <string name="card_christmas">Merry Christmas!</string>
+
+    <!-- GraduationTemplateActivity -->
+    <string name="card_graduation">Happy Graduation!</string>
+
+    <!-- WeddingTemplateActivity -->
+    <string name="card_wedding">Happy Wedding!</string>
 
 </resources>
