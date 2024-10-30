@@ -12,31 +12,31 @@ WishMaker adalah sebuah aplikasi kreatif yang dirancang untuk memudahkan penggun
 Link Figma : https://www.figma.com/design/cZQtf6dWvLvb6P2Jr3dEpu/WishMaker?node-id=0-1&t=O1LwQqh5eVesAgOr-1
 
 1. On Boarding Page
-   ![On Boarding Page](https://github.com/user-attachments/assets/a09101fb-c327-4f20-bb1f-0f35bf516f6b)
+   [On Boarding Page](https://github.com/user-attachments/assets/a09101fb-c327-4f20-bb1f-0f35bf516f6b)
 
-22. Sign Up Page !
+2. Sign Up Page 
    [Sign Up Page](https://github.com/user-attachments/assets/4ef5fb84-7803-4275-9a07-4f17b1db1690)
 
 3. Sign In Page
-   ![Sign In Page](https://github.com/user-attachments/assets/f326f056-8490-43a0-b402-fb7819c18a4f)
+   [Sign In Page](https://github.com/user-attachments/assets/f326f056-8490-43a0-b402-fb7819c18a4f)
 
 4. Choose Template Page
-   ![Choose Template](https://github.com/user-attachments/assets/a3756094-100a-4839-8b34-b82a894f3242)
+   [Choose Template](https://github.com/user-attachments/assets/a3756094-100a-4839-8b34-b82a894f3242)
 
 5. Form Input Page
-    ![Form Input Page](https://github.com/user-attachments/assets/4d5dd525-8178-4976-8a27-b952ced5c009)
+   [Form Input Page](https://github.com/user-attachments/assets/4d5dd525-8178-4976-8a27-b952ced5c009)
 
 6. Birthday Template
-    ![BirthdayTemplate](https://github.com/user-attachments/assets/acc08a44-b8f0-4a9e-9c51-b45f52aac867)
+    [BirthdayTemplate](https://github.com/user-attachments/assets/acc08a44-b8f0-4a9e-9c51-b45f52aac867)
 
 7. Christmas Template
-    ![ChristmasTemplate](https://github.com/user-attachments/assets/a4ff4aeb-855d-4c2c-afcf-8116c1a4e047)
+    [ChristmasTemplate](https://github.com/user-attachments/assets/a4ff4aeb-855d-4c2c-afcf-8116c1a4e047)
 
-8. Graduation Template !
+8. Graduation Template 
     [GraduationTemplate](https://github.com/user-attachments/assets/026d1f86-3849-484b-9b9e-76e23de32506)
 
 9. Wedding Template
-    ![WeddingTemplate](https://github.com/user-attachments/assets/31a84b54-a2ec-42b1-8b9c-2b158051de2b)
+    [WeddingTemplate](https://github.com/user-attachments/assets/31a84b54-a2ec-42b1-8b9c-2b158051de2b)
 
 # Manfaat Aplikasi
 WishMaker menawarkan kemudahan dan efisiensi dengan memungkinkan pengguna membuat kartu ucapan kapan saja dan di mana saja tanpa perlu pergi ke toko atau membeli kartu fisik, sehingga prosesnya lebih cepat dan praktis hanya dalam beberapa langkah sederhana. Aplikasi ini juga memungkinkan personalisasi pesan, di mana pengguna dapat menambahkan nama penerima, ucapan spesial, dan nama pengirim, menciptakan kartu yang lebih bermakna dan sesuai dengan hubungan pribadi mereka. Selain itu, WishMaker turut berkontribusi dalam pengurangan penggunaan kertas dan limbah, menjadikannya lebih ramah lingkungan dibandingkan kartu fisik. Tidak hanya itu, aplikasi ini juga membantu pengguna menghemat biaya, karena kartu ucapan dapat dibuat dan dikirim secara digital tanpa memerlukan biaya tambahan seperti pembelian kartu atau ongkos kirim.
