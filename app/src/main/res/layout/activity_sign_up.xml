@@ -17,7 +17,7 @@
         android:text="@string/tv_heading_signup"
         android:fontFamily="@font/poppins_extra_bold"
         android:textColor="@color/primary"
-        android:textSize="30dp"
+        android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/guideline_signup"/>
 
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:text="@string/tv_subheading_signup"
         android:fontFamily="@font/poppins_regular"
-        android:textSize="10dp"
+        android:textSize="10sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tv_heading_signup"/>
 

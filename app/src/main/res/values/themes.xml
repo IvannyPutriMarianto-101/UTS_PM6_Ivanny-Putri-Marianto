@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.WishMaker" parent="Base.Theme.WishMaker" />
+
+    <style name="card_color">
+        <item name="cardBackgroundColor">@color/card_color</item>
+    </style>
+
 </resources>
