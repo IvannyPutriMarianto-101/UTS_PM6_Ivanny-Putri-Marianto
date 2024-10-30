@@ -38,16 +38,17 @@
     <string name="btn_card_graduation">Customize</string>
     <!-- Wedding Card -->
     <string name="card_wedding_heading">Wedding Template</string>
-    <string name="card_weddiing_subheading">Share in the joy of their special day with a card that captures love and happiness. Choose a design that celebrates their beautiful beginning together.</string>
+    <string name="card_wedding_subheading">Share in the joy of their special day with a card that captures love and happiness. Choose a design that celebrates their beautiful beginning together.</string>
     <string name="btn_card_wedding">Customize</string>
 
     <!-- FormActivity -->
-    <string name="tv_form_title">Form Greeting Card</string>
-    <string name="et_greeting_sentences">Greeting Sentences</string>
+    <string name="tv_form_heading">Form Greeting Card</string>
+    <string name="tv_form_subheading">In just a few steps, your special greeting card will be ready to send! </string>
     <string name="et_recepient">Recipient\'s Name</string>
     <string name="et_message">Message</string>
     <string name="et_closing">Closing Statement</string>
     <string name="et_sender">Sender Name</string>
+    <string name="btn_result">Result</string>
 
     <!-- BirthdayTemplateActivity -->
     <string name="card_birthday">Happy Birthday!</string>

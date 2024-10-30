@@ -94,6 +94,29 @@
         app:layout_constraintTop_toBottomOf="@id/et_comfirm_password"
         android:layout_marginTop="30dp"/>
 
+    <TextView
+        android:id="@+id/already"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already have an account?"
+        android:fontFamily="@font/poppins_regular"
+        app:layout_constraintTop_toBottomOf="@id/btn_signup"
+        android:textSize="12sp"
+        />
+
+    <TextView
+        android:id="@+id/signin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:text="Sign In"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/poppins_regular"
+        app:layout_constraintStart_toEndOf="@id/already"
+        app:layout_constraintTop_toBottomOf="@id/btn_signup"
+        />
+
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline_signup"
         android:layout_width="wrap_content"

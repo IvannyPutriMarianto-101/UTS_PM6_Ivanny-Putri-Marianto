@@ -1,0 +1,122 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/form_input_background"
+    android:padding="20dp">
+
+    <!-- Form Card Container -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/form_card"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="8dp"
+        app:layout_constraintTop_toBottomOf="@id/guideline_form"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/tv_form_heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tv_form_heading"
+                android:fontFamily="@font/poppins_extra_bold"
+                android:textColor="@color/primary"
+                android:textSize="20sp"/>
+
+            <!-- Subtitle -->
+            <TextView
+                android:id="@+id/tv_form_subheading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tv_form_subheading"
+                android:textColor="#757575"
+                android:textSize="10sp"/>
+
+            <!-- Recipient's Name Input -->
+            <EditText
+                android:id="@+id/et_recepient"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/inputan"
+                android:hint="@string/et_recepient"
+                android:padding="12dp"
+                android:textSize="15sp"
+                android:textColor="@color/text"
+                android:fontFamily="@font/poppins_regular"/>
+
+            <!-- Message Input -->
+            <EditText
+                android:id="@+id/et_message"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/inputan"
+                android:hint="@string/et_message"
+                android:padding="12dp"
+                android:textColor="@color/text"
+                android:textSize="15sp"
+                android:fontFamily="@font/poppins_regular"/>
+
+            <!-- Closing Statement Input -->
+            <EditText
+                android:id="@+id/et_closing"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/inputan"
+                android:hint="@string/et_closing"
+                android:padding="12dp"
+                android:textColor="@color/text"
+                android:textSize="15sp"
+                android:fontFamily="@font/poppins_regular"/>
+
+            <!-- Sender Name Input -->
+            <EditText
+                android:id="@+id/et_sender"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/inputan"
+                android:hint="@string/et_sender"
+                android:padding="12dp"
+                android:textColor="@color/text"
+                android:textSize="15sp"
+                android:fontFamily="@font/poppins_regular" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <!-- Result Button -->
+    <Button
+        android:id="@+id/btn_result"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/btn_result"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:fontFamily="@font/poppins_extra_bold"
+        android:backgroundTint="@color/primary"
+        app:layout_constraintTop_toBottomOf="@id/form_card"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_form"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="60dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

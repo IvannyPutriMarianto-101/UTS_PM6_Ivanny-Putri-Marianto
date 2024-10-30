@@ -7,11 +7,26 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/tv_heading"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WishMaker"
         tools:targetApi="31">
+        <activity
+            android:name=".WeddingTemplateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GraduationTemplateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChristmasTemplateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BirthdayTemplateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FormInputActivity"
+            android:exported="false" />
         <activity
             android:name=".ChooseTemplateActivity"
             android:exported="false" />
