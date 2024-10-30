@@ -8,7 +8,7 @@ Lab : 6
 # Deskripsi Aplikasi
 WishMaker adalah sebuah aplikasi kreatif yang dirancang untuk memudahkan pengguna dalam membuat dan mengirim kartu ucapan digital untuk berbagai acara spesial. Aplikasi ini hadir sebagai solusi modern untuk menggantikan kartu ucapan tradisional dengan kartu digital yang cepat, mudah, dan dapat dipersonalisasi. Dengan antarmuka yang sederhana dan interaktif, pengguna dapat menyesuaikan setiap kartu ucapan sesuai dengan kebutuhan mereka, menjadikannya lebih personal dan bermakna.
 
-# Prototype
+# Prototype/MockUp
 Link Figma : https://www.figma.com/design/cZQtf6dWvLvb6P2Jr3dEpu/WishMaker?node-id=0-1&t=O1LwQqh5eVesAgOr-1
 
 1. On Boarding Page - 
