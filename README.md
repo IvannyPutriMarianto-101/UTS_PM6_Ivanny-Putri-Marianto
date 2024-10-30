@@ -53,6 +53,9 @@ Di halaman input, pengguna mengisi nama penerima, pesan ucapan, salam penutup, d
 5. Tampilkan Kartu Ucapan:
 Setelah semua data diisi dan dikonfirmasi, aplikasi akan menampilkan kartu ucapan secara langsung di layar dengan template dan pesan yang sudah dipilih. Pengguna bisa melihat hasil akhir kartu dan memastikan tampilannya sesuai tanpa perlu menyimpannya ke galeri.
 
+# Video Demonstrasi
+Link Youtube : https://youtu.be/ogLILkLh8qw?si=1hIrQiMwMlBNNOtD
+
 # Credits
 1. Asset (Picture) - Freepik
 2. UI Recommendation - https://ui8.net/ceffectz/products/greetings-mobile-application-ui-kit?rel=timer
