@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-31 at 13 39 24_cc23c510](https://github.com/user-attachments/assets/93464846-5896-4194-a6e5-b1b0c073107d)# UTS Lab 6 PM
+# UTS Lab 6 PM
 Nama : Ivanny Putri Marianto
 
 NIM : 221401101
