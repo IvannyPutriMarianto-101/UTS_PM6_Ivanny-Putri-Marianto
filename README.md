@@ -1,4 +1,4 @@
-# UTS Lab 6 PM
+![WhatsApp Image 2024-10-31 at 13 39 24_cc23c510](https://github.com/user-attachments/assets/93464846-5896-4194-a6e5-b1b0c073107d)# UTS Lab 6 PM
 Nama : Ivanny Putri Marianto
 
 NIM : 221401101
@@ -37,6 +37,19 @@ Link Figma : https://www.figma.com/design/cZQtf6dWvLvb6P2Jr3dEpu/WishMaker?node-
 
 9. Wedding Template - 
     [WeddingTemplate](https://github.com/user-attachments/assets/31a84b54-a2ec-42b1-8b9c-2b158051de2b)
+
+Screenshot Aplikasi:
+1. On Boarding Page - ![On Boarding Page](https://github.com/user-attachments/assets/0fb34d8c-d170-4e40-8dc4-0eaa85dde40d)
+
+2. Sign Up Page - ![Sign Up Page](https://github.com/user-attachments/assets/9c43bf27-b1ff-49b8-afdc-3596515f4dd7)
+
+3. Sign In Page - ![Sign In Page](https://github.com/user-attachments/assets/c8feca4e-8974-4ad4-b0fc-cf411a1210d9)
+
+4. Choose Template Page - ![Choose Template Page](https://github.com/user-attachments/assets/4c12c604-5d66-4173-9561-0633710e1983)
+
+5. Form Input Page - ![Form Input Page](https://github.com/user-attachments/assets/e016b02d-7eb4-4718-ab8d-e4dd48ae6134)
+
+6. CHoosen Template - ![Choosen Template](https://github.com/user-attachments/assets/feab8e5a-f863-4a39-ab01-eb4c0195d377)
 
 # Manfaat Aplikasi
 WishMaker menawarkan kemudahan dan efisiensi dengan memungkinkan pengguna membuat kartu ucapan kapan saja dan di mana saja tanpa perlu pergi ke toko atau membeli kartu fisik, sehingga prosesnya lebih cepat dan praktis hanya dalam beberapa langkah sederhana. Aplikasi ini juga memungkinkan personalisasi pesan, di mana pengguna dapat menambahkan nama penerima, ucapan spesial, dan nama pengirim, menciptakan kartu yang lebih bermakna dan sesuai dengan hubungan pribadi mereka. Selain itu, WishMaker turut berkontribusi dalam pengurangan penggunaan kertas dan limbah, menjadikannya lebih ramah lingkungan dibandingkan kartu fisik. Tidak hanya itu, aplikasi ini juga membantu pengguna menghemat biaya, karena kartu ucapan dapat dibuat dan dikirim secara digital tanpa memerlukan biaya tambahan seperti pembelian kartu atau ongkos kirim.
